@@ -1,0 +1,4 @@
+streamlit
+unstructured[all-docs]
+pandas
+poppler-utils
